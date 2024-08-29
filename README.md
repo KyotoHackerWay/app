@@ -2,6 +2,8 @@
 
 Kyoto Hacker Way の イベントトピックスを投稿するアプリです。
 
+https://kyotohackerway.github.io/
+
 ## 開発者向け
 
 準備
